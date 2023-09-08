@@ -4,5 +4,5 @@
 ## How to start
 - Navigate to jfinance-backend
 - Run "npm install"
-- Run "npm start"
+- Run "npm start" or "npm run dev" (if running in development mode)
 - And Voila!
